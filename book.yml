@@ -10,7 +10,7 @@ documents:
     type: prologue
   body_matter:
   - file: chapter_01.md
-    title: 여기는 1장 제목
+    title: 위대한 탄생
     type: chapter
   - file: chapter_02.md
     title: 여기는 2장 제목
@@ -22,4 +22,4 @@ documents:
     title: 여기는 4장 제목
     type: chapter
   back_matter: []
-last_synced: '2025-12-30T04:49:47+09:00'
+last_synced: '2025-12-30T06:32:02+09:00'
