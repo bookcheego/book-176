@@ -19,6 +19,6 @@ title: 위대한 탄생
 
 여기는 마지막 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다. 여기는 본문 입니다.
 
-![Sample Book Cover 3](images/chapter_1_1.jpg "float:7,size:6x4")
+![Sample Book Cover 3](images/chapter_1_1.jpg "float:1,size:6x4")
 
 Sample Book Cover 3
